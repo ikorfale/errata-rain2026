@@ -1,0 +1,443 @@
+{
+ "window": "Aug 1 - Oct 26",
+ "years": [
+  {
+   "year": 2026,
+   "r": 0.497,
+   "cells": 21808,
+   "loo": false,
+   "oni": 2.16,
+   "oni_season": "JAS",
+   "rank": 1
+  },
+  {
+   "year": 1982,
+   "r": 0.368,
+   "cells": 21810,
+   "loo": false,
+   "oni": 1.45,
+   "oni_season": "ASO",
+   "rank": 2
+  },
+  {
+   "year": 2014,
+   "r": 0.308,
+   "cells": 21810,
+   "loo": false,
+   "oni": 0.24,
+   "oni_season": "ASO",
+   "rank": 3
+  },
+  {
+   "year": 2015,
+   "r": 0.307,
+   "cells": 21810,
+   "loo": true,
+   "oni": 2.02,
+   "oni_season": "ASO",
+   "rank": 4
+  },
+  {
+   "year": 2002,
+   "r": 0.284,
+   "cells": 21810,
+   "loo": false,
+   "oni": 0.78,
+   "oni_season": "ASO",
+   "rank": 5
+  },
+  {
+   "year": 2019,
+   "r": 0.245,
+   "cells": 21741,
+   "loo": false,
+   "oni": 0.31,
+   "oni_season": "ASO",
+   "rank": 6
+  },
+  {
+   "year": 1991,
+   "r": 0.23,
+   "cells": 21810,
+   "loo": false,
+   "oni": 0.72,
+   "oni_season": "ASO",
+   "rank": 7
+  },
+  {
+   "year": 1987,
+   "r": 0.212,
+   "cells": 21810,
+   "loo": false,
+   "oni": 1.49,
+   "oni_season": "ASO",
+   "rank": 8
+  },
+  {
+   "year": 2024,
+   "r": 0.202,
+   "cells": 21460,
+   "loo": false,
+   "oni": -0.12,
+   "oni_season": "ASO",
+   "rank": 9
+  },
+  {
+   "year": 2018,
+   "r": 0.198,
+   "cells": 21709,
+   "loo": false,
+   "oni": 0.52,
+   "oni_season": "ASO",
+   "rank": 10
+  },
+  {
+   "year": 2025,
+   "r": 0.182,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.43,
+   "oni_season": "ASO",
+   "rank": 11
+  },
+  {
+   "year": 1997,
+   "r": 0.169,
+   "cells": 21810,
+   "loo": true,
+   "oni": 2.04,
+   "oni_season": "ASO",
+   "rank": 12
+  },
+  {
+   "year": 1994,
+   "r": 0.161,
+   "cells": 21810,
+   "loo": false,
+   "oni": 0.47,
+   "oni_season": "ASO",
+   "rank": 13
+  },
+  {
+   "year": 2009,
+   "r": 0.135,
+   "cells": 21701,
+   "loo": false,
+   "oni": 0.66,
+   "oni_season": "ASO",
+   "rank": 14
+  },
+  {
+   "year": 2006,
+   "r": 0.122,
+   "cells": 21810,
+   "loo": false,
+   "oni": 0.54,
+   "oni_season": "ASO",
+   "rank": 15
+  },
+  {
+   "year": 2012,
+   "r": 0.117,
+   "cells": 21809,
+   "loo": false,
+   "oni": 0.37,
+   "oni_season": "ASO",
+   "rank": 16
+  },
+  {
+   "year": 2023,
+   "r": 0.106,
+   "cells": 21810,
+   "loo": true,
+   "oni": 1.5,
+   "oni_season": "ASO",
+   "rank": 17
+  },
+  {
+   "year": 1980,
+   "r": 0.093,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.17,
+   "oni_season": "ASO",
+   "rank": 18
+  },
+  {
+   "year": 1990,
+   "r": 0.082,
+   "cells": 21810,
+   "loo": false,
+   "oni": 0.31,
+   "oni_season": "ASO",
+   "rank": 19
+  },
+  {
+   "year": 2017,
+   "r": 0.064,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.23,
+   "oni_season": "ASO",
+   "rank": 20
+  },
+  {
+   "year": 1979,
+   "r": 0.059,
+   "cells": 21810,
+   "loo": false,
+   "oni": 0.34,
+   "oni_season": "ASO",
+   "rank": 21
+  },
+  {
+   "year": 2013,
+   "r": 0.058,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.32,
+   "oni_season": "ASO",
+   "rank": 22
+  },
+  {
+   "year": 2011,
+   "r": 0.029,
+   "cells": 21809,
+   "loo": false,
+   "oni": -0.76,
+   "oni_season": "ASO",
+   "rank": 23
+  },
+  {
+   "year": 1993,
+   "r": -0.001,
+   "cells": 21048,
+   "loo": false,
+   "oni": 0.2,
+   "oni_season": "ASO",
+   "rank": 24
+  },
+  {
+   "year": 2020,
+   "r": -0.016,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.77,
+   "oni_season": "ASO",
+   "rank": 25
+  },
+  {
+   "year": 1981,
+   "r": -0.018,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.08,
+   "oni_season": "ASO",
+   "rank": 26
+  },
+  {
+   "year": 1989,
+   "r": -0.019,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.33,
+   "oni_season": "ASO",
+   "rank": 27
+  },
+  {
+   "year": 1983,
+   "r": -0.022,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.43,
+   "oni_season": "ASO",
+   "rank": 28
+  },
+  {
+   "year": 2007,
+   "r": -0.023,
+   "cells": 21810,
+   "loo": false,
+   "oni": -1.05,
+   "oni_season": "ASO",
+   "rank": 29
+  },
+  {
+   "year": 2021,
+   "r": -0.041,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.64,
+   "oni_season": "ASO",
+   "rank": 30
+  },
+  {
+   "year": 2004,
+   "r": -0.079,
+   "cells": 9169,
+   "loo": false,
+   "oni": 0.58,
+   "oni_season": "ASO",
+   "rank": 31
+  },
+  {
+   "year": 1992,
+   "r": -0.085,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.15,
+   "oni_season": "ASO",
+   "rank": 32
+  },
+  {
+   "year": 1999,
+   "r": -0.091,
+   "cells": 21810,
+   "loo": false,
+   "oni": -1.0,
+   "oni_season": "ASO",
+   "rank": 33
+  },
+  {
+   "year": 1995,
+   "r": -0.107,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.81,
+   "oni_season": "ASO",
+   "rank": 34
+  },
+  {
+   "year": 2000,
+   "r": -0.128,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.42,
+   "oni_season": "ASO",
+   "rank": 35
+  },
+  {
+   "year": 2001,
+   "r": -0.128,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.15,
+   "oni_season": "ASO",
+   "rank": 36
+  },
+  {
+   "year": 1988,
+   "r": -0.129,
+   "cells": 21810,
+   "loo": false,
+   "oni": -1.27,
+   "oni_season": "ASO",
+   "rank": 37
+  },
+  {
+   "year": 2008,
+   "r": -0.142,
+   "cells": 21737,
+   "loo": false,
+   "oni": -0.25,
+   "oni_season": "ASO",
+   "rank": 38
+  },
+  {
+   "year": 2022,
+   "r": -0.148,
+   "cells": 21767,
+   "loo": false,
+   "oni": -0.87,
+   "oni_season": "ASO",
+   "rank": 39
+  },
+  {
+   "year": 2005,
+   "r": -0.152,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.11,
+   "oni_season": "ASO",
+   "rank": 40
+  },
+  {
+   "year": 2016,
+   "r": -0.155,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.42,
+   "oni_season": "ASO",
+   "rank": 41
+  },
+  {
+   "year": 2003,
+   "r": -0.179,
+   "cells": 21810,
+   "loo": false,
+   "oni": 0.23,
+   "oni_season": "ASO",
+   "rank": 42
+  },
+  {
+   "year": 1984,
+   "r": -0.18,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.32,
+   "oni_season": "ASO",
+   "rank": 43
+  },
+  {
+   "year": 1986,
+   "r": -0.21,
+   "cells": 9169,
+   "loo": false,
+   "oni": 0.64,
+   "oni_season": "ASO",
+   "rank": 44
+  },
+  {
+   "year": 1985,
+   "r": -0.234,
+   "cells": 9169,
+   "loo": false,
+   "oni": -0.31,
+   "oni_season": "ASO",
+   "rank": 45
+  },
+  {
+   "year": 1998,
+   "r": -0.252,
+   "cells": 21810,
+   "loo": false,
+   "oni": -1.02,
+   "oni_season": "ASO",
+   "rank": 46
+  },
+  {
+   "year": 1996,
+   "r": -0.265,
+   "cells": 21810,
+   "loo": false,
+   "oni": -0.3,
+   "oni_season": "ASO",
+   "rank": 47
+  },
+  {
+   "year": 2010,
+   "r": -0.266,
+   "cells": 20551,
+   "loo": false,
+   "oni": -1.43,
+   "oni_season": "ASO",
+   "rank": 48
+  }
+ ],
+ "rank_2026": 1,
+ "n_years": 48,
+ "r_2026": 0.497,
+ "n_non_composite_years_above_2026": 0,
+ "n_non_composite_years": 44,
+ "corr_oni_vs_r_excl2026_and_composite": 0.629
+}
