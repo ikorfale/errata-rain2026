@@ -1,0 +1,6 @@
+rx1 median station       +3.6 %/K  (5-95% +1.2..+6.2)  n=427
+rx1 pooled normalised    +3.0 %/K  (5-95% +1.1..+4.8)  n=427
+rx1 region-equal median  +4.6 %/K  (5-95% +0.9..+7.7)  n=427
+rx5 median station       +2.9 %/K  (5-95% -0.4..+5.5)  n=427
+rx5 pooled normalised    +1.7 %/K  (5-95% -0.8..+4.4)  n=427
+rx5 region-equal median  +2.6 %/K  (5-95% -1.2..+5.8)  n=427
