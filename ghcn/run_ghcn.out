@@ -1,0 +1,10 @@
+stations used 427 of 714 (>=35 valid years with GMST)
+all        n= 427 median +3.6 %/K  positive 58%  sig+ 4.4%  sig- 2.8%
+Australia  n=  83 median +5.6 %/K  positive 57%  sig+ 2.4%  sig- 1.2%
+Europe     n= 129 median +4.3 %/K  positive 62%  sig+ 7.8%  sig- 1.6%
+N America  n= 178 median +1.8 %/K  positive 56%  sig+ 3.9%  sig- 2.8%
+E Asia     n=   6 median -7.3 %/K  positive 33%  sig+ 0.0%  sig- 0.0%
+Africa     n=   3 median -43.4 %/K  positive 0%  sig+ 0.0%  sig- 33.3%
+other      n=  28 median +6.8 %/K  positive 61%  sig+ 0.0%  sig- 10.7%
+null (years shuffled, 500x): share positive 95% range 0.44-0.57 vs observed 0.58; median %/K 95% range -3.1..+2.8 vs +3.6
+2026 record Rx1day: 6 of 267 stations with 2026 data (expected 6.0 by chance)

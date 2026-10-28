@@ -1,0 +1,7 @@
+ndays {2006: 299, 2020: 300, 2025: 299, 2026: 299}
+Africa     n=  1  gauge 2026-top  1  CPC cell 2026-top  0  both  0  (expected each 0.0)
+Australia  n= 36  gauge 2026-top  6  CPC cell 2026-top  0  both  0  (expected each 1.7)
+Europe     n= 76  gauge 2026-top  1  CPC cell 2026-top  6  both  0  (expected each 3.6)
+N America  n=108  gauge 2026-top  3  CPC cell 2026-top  9  both  2  (expected each 5.1)
+other      n=  8  gauge 2026-top  0  CPC cell 2026-top  0  both  0  (expected each 0.4)
+all        n=229  gauge 2026-top 11  CPC cell 2026-top 15  both  2  (expected each 10.9)

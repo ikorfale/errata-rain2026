@@ -7,7 +7,8 @@ import csv, io, json, os, time, urllib.request, datetime as dt
 HERE = os.path.dirname(os.path.abspath(__file__))
 BASE = "https://www.ncei.noaa.gov/pub/data/ghcn/daily/"
 ACC = "https://www.ncei.noaa.gov/data/global-historical-climatology-network-daily/access/{}.csv"
-OUT = os.path.join(HERE, "stations.jsonl")
+OUT = os.path.join(HERE, os.environ.get("OUTFILE", "stations.jsonl"))
+END = os.environ.get("END", "10-26")   # window end MM-DD inclusive (Sep 30 run: END=09-30 OUTFILE=stations_sep.jsonl)
 
 def get(url, tries=4):
     for k in range(tries):
@@ -41,7 +42,7 @@ def stats(sid):
         days[r["DATE"]] = float(p) / 10.0                         # tenths of mm -> mm
     out = {}
     for y in range(1979, 2027):
-        d0 = dt.date(y, 1, 1); n = (dt.date(y, 10, 26) - d0).days + 1
+        d0 = dt.date(y, 1, 1); n = (dt.date(y, int(END[:2]), int(END[3:])) - d0).days + 1
         v = [days.get((d0 + dt.timedelta(i)).isoformat()) for i in range(n)]
         ok = [x for x in v if x is not None]
         if len(ok) < 0.9 * n: continue

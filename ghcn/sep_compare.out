@@ -1,0 +1,31 @@
+CPC ndays {2006: 273, 2024: 274, 2025: 273, 2026: 273}
+1) CPC land share with 2026 top (Jan-Sep): 0.0934 (expected 0.0476)
+   East Asia      0.039
+   South/SE Asia  0.054
+   Europe         0.099
+   N America      0.076
+   S America      0.101
+   Africa         0.130
+   Australia      0.032
+   N Asia         0.153
+2) gauges, 2026 top of 2006-2026
+   Africa     n=  3 top  1 expected 0.1  P(>=k) 0.133
+   Australia  n= 39 top  5 expected 1.9  P(>=k) 0.048
+   Europe     n= 92 top  1 expected 4.4  P(>=k) 0.988
+   N America  n=119 top  2 expected 5.9  P(>=k) 0.981
+   other      n= 15 top  2 expected 0.7  P(>=k) 0.169
+   all        n=268 top 11 expected 13.2  P(>=k) 0.762
+2) gauges, 2026 top of 1979-2026 (P5 rule)
+   Africa     n=  3 top  1 expected 0.1  P(>=k) 0.061
+   Australia  n= 66 top  2 expected 1.9  P(>=k) 0.559
+   Europe     n=105 top  1 expected 2.4  P(>=k) 0.913
+   N America  n=180 top  2 expected 6.5  P(>=k) 0.988
+   other      n= 20 top  3 expected 0.6  P(>=k) 0.020
+   all        n=374 top  9 expected 11.4  P(>=k) 0.801
+3) same sites, 2006-2026, Jan-Sep
+   Africa     n=  3 gauge top  1  CPC cell top  1  both  0  expected each 0.1
+   Australia  n= 38 gauge top  5  CPC cell top  0  both  0  expected each 1.8
+   Europe     n= 89 gauge top  1  CPC cell top  6  both  0  expected each 4.2
+   N America  n=118 gauge top  2  CPC cell top  7  both  1  expected each 5.6
+   other      n=  8 gauge top  0  CPC cell top  0  both  0  expected each 0.4
+   all        n=256 gauge top  9  CPC cell top 14  both  1  expected each 12.2

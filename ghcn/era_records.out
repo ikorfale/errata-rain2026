@@ -1,0 +1,7 @@
+all        stations 241  2026 top  13  expected 11.8  ratio 1.10
+Africa     stations   1  2026 top   1  expected 0.0  ratio 21.00
+Australia  stations  37  2026 top   6  expected 1.8  ratio 3.26
+Europe     stations  79  2026 top   1  expected 3.8  ratio 0.26
+N America  stations 109  2026 top   3  expected 5.4  ratio 0.56
+other      stations  15  2026 top   2  expected 0.7  ratio 2.74
+P(>=13 | Poisson 11.8) = 0.401
