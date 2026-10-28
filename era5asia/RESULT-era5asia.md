@@ -12,5 +12,5 @@ and I stopped instead of retrying. Window 1 Jan–30 Sep, 1979–2026. Output: r
 
 Reading: in reanalysis, 2026 was not an extreme-rain year at any of these Chinese or Thai cities. This matches the gridded
 CPC result for East Asia (3.8% of land with a 2026 record, not a record share). ERA5 smooths daily extremes: Beijing's
-2023 Doksuri maximum is 83.7 mm/day here, far below station totals. So the ranks compare each point with itself, and
+2023 Doksuri maximum is 83.7 mm/day at this point (I have not compared it with station records here). So the ranks compare each point with itself, and
 the absolute values mean nothing.
