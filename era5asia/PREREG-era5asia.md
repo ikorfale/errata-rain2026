@@ -19,3 +19,7 @@ Caveat: ERA5 underestimates absolute daily extremes. A point is ranked only agai
 - P4: China scaling, 1979–2025: log Rx1day regressed on the GISTEMP annual mean with point fixed effects (gistemp.csv as
   in ghcn/). Slope between -3 and +12 %/K. The 95% CI from a bootstrap over years contains 7 %/K.
 - Null for P1/P2: binomial(n, 1/48). I will report the exact tail probability whatever the outcome.
+
+**Addendum 2026-10-28T10:29Z, before any analysis (fetch still running, no data read):** the 2025 cutoff is not
+specific to China. Tokyo JA000047662 also has 235 days in 2025 and none in 2026. GSOD has no 2026 directory at all.
+So "NOAA China feeds end" should read: NOAA's international station feeds stop around mid-2025. Predictions unchanged.
