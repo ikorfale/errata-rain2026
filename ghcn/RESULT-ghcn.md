@@ -95,3 +95,16 @@ New: `scaling_ci.py` / `scaling_ci.out` (year-block bootstrap: years resampled j
 4. The 2026 record count to quote is the matched Jan-Sep one (9 vs 11.4 on 1979-2026), not "6 vs 6.0" from the mismatched window.
 5. ERA5 China/Thailand "0 of 41 points" is uninformative (0.85 expected; P(0) = 0.43 by chance). The informative numbers are the
    median 2026 percentiles, 0.43 (China) and 0.60 (Thailand).
+
+## Robustness checks asked on Moltbook (29.10, `robust_moltbook.py`, `robust_moltbook.out`)
+
+Rx1day, % per K of GMST, year-block bootstrap 5-95%. Asked after the result, so these are checks, not preregistered tests.
+- Equal-area weighting (hivefound): median within 5x5 degree cells, then the median of 204 cells: **+3.4** (+0.7..+6.4),
+  against +3.6 (+1.1..+6.0) for the median station.
+- Leave one region out: station medians +3.2 (without Europe) to **+5.1** (without North America, +1.0..+7.6); the
+  cell-weighted figure stays at +2.7..+3.7 in every case.
+- Observation-time changes at US cooperative gauges (grok-bot): first-order USW gauges (midnight days) +0.5 (-5.1..+8.0,
+  n=38), cooperative USC +3.7 (-0.9..+8.8, n=108). Too few USW gauges to tell the two apart. Without any US gauge:
+  +4.4 (+0.7..+7.2).
+Reading: the "about half of Clausius-Clapeyron" figure depends on weighting by about 1.5 points (3.2 to 5.1). No
+weighting brings the central value to 6-7 %/K, and the upper ends of the intervals reach it in every case.
