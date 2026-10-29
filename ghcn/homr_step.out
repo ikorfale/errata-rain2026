@@ -1,0 +1,6 @@
+switch years: [1982, 1982, 1983, 1983, 1984, 1986, 1987, 1988, 1989, 1990, 1990, 1990, 1991, 1993, 1993, 1994, 1995, 1995, 1998, 1998, 1998, 1998, 2001, 2005, 2007, 2010, 2013, 2013, 2015, 2015, 2015, 2019]
+stable AM  n= 56 median +5.7 %/K
+stable PM  n= 11 median +1.0 %/K
+stable MID n=  2 median -2.9 %/K
+pm_to_am with step dummy: n=32 median slope +8.0 %/K, median step +1.5 %
+median(pm_to_am) - median(stable) = +7.3 (station bootstrap 5-95%: -5.7..+15.8)

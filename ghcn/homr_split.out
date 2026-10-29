@@ -1,0 +1,5 @@
+classes: {'pm_to_am': 32, 'stable': 69, 'other': 6, 'undoc': 1} of 108 USC gauges; 0 missing in HOMR file
+stable    n= 69 median +4.1 %/K (5-95%: -1.7..+9.8)
+pm_to_am  n= 32 median +11.4 %/K (5-95%: -1.0..+18.9)
+other     n=  6 median -16.2 %/K (5-95%: -31.0..+3.2)
+undoc     n=1 (too few)
